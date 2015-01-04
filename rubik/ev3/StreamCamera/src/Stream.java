@@ -9,7 +9,13 @@ import lejos.hardware.Button;
 import lejos.hardware.ev3.EV3;
 import lejos.hardware.lcd.LCD;
 import lejos.hardware.video.Video;
- 
+
+/**
+ * 
+ * @author Sylvie91
+ * @description: This class has been designed to stream a image 
+ * from a webcam plugged in a EV3 brick.
+ */
 public class Stream {
     private static final int WIDTH = 160;
     private static final int HEIGHT = 120;
