@@ -25,7 +25,7 @@ Developing this project, we will learn:
 
 #### Developers:
 
-[Sylvie Gilvert](http://album-photos-gilbert-sylvie.com/Album2013/hobbies.php)
+[Sylvie Leviel](http://album-photos-gilbert-sylvie.com/Album2013/hobbies.php)
 
 [Bartlomiej Drozd](https://github.com/dedraPL)
 
