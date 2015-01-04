@@ -9,7 +9,9 @@ OpenCV Lab is a public repo to explore the usage of OpenCV with Robots.
 Developers:
 
 [Sylvie Gilvert](http://album-photos-gilbert-sylvie.com/Album2013/hobbies.php)
+
 [Bartlomiej Drozd](https://github.com/dedraPL)
+
 [Juan Antonio Breña Moral](http://www.juanantonio.info/)
 
 ### References
