@@ -6,6 +6,8 @@ OpenCV Lab is a public repo to explore the usage of OpenCV with Robots.
 
 ### Rubik Solver with OpenCV.
 
+![ScreenShot](https://raw.githubusercontent.com/jabrena/OpenCVLab/master/rubik/docs/images/rubik.jpg)
+
 Developers:
 
 [Sylvie Gilvert](http://album-photos-gilbert-sylvie.com/Album2013/hobbies.php)
